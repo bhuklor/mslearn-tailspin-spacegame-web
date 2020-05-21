@@ -8,6 +8,7 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
+  anatoly: 'MyTest'
 
 steps:
 - task: UseDotNet@2
